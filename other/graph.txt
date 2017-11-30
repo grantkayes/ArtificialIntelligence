@@ -1,0 +1,37 @@
+brest --> rennes 244
+rennes --> caen 176 paris 348 brest 244 nantes 107
+caen --> calais 120 paris 241 rennes 176
+calais --> nancy 534 paris 297 caen 120
+nancy --> strasbourg 145 dijon 201 paris 372 calais 534
+strasbourg --> dijon 335 nancy 145
+dijon --> strasbourg 335 lyon 192 paris 313 nancy 201
+lyon --> grenoble 104 avignon 216 limoges 389 dijon 192
+grenoble --> avignon 227 lyon 104
+avignon --> grenoble 227 marseille 99 montpellier 121 lyon 216
+marseille --> nice 188 avignon 99
+nice --> marseille 188
+montpellier --> avignon 121 toulouse 240
+toulouse --> montpellier 240 bordeaux 253 limoges 313
+bordeaux --> limoges 220toulouse 253 nantes 329
+limoges --> lyon 389 toulouse 313 bordeaux 220 nantes 329 paris 396
+nantes --> limoges 329 bordeaux 329 rennes 107
+paris --> calais 297 nancy 372 dijon 313 limoges 396 rennes 348 caen 241
+
+nice 43 42 0 N 7 21 0 E
+rennes 48 07 0 N 1 02 0 W
+brest 48 24 0  N 4 30 0 W
+strasbourg 48 32 24 N 7 37 34 E
+dijon 47 21 0 N 5 02 0 E
+lyon 45 44 0 N 4 52 0 E
+grenoble 45 21 36 N 5 19 12 E
+avignon 43 50 0 N 4 45 0 E
+marseille 43 18 0 N 5 25 0 E
+bordeaux 44 50 0 N 0 37 0 W
+toulouse 43 37 0 N 1 27 0 E
+montpellier 43 38 0 N 3 53 0 E
+limoges 45 30 0 N 1 10 0 E
+caen 49 15 0 N 0 20 0 W
+calais 50 57 36 N 1 57 0 E
+nancy 48 50 0 N 6 10 0 E
+nantes 47 15 0 N 1 30 0 W
+paris 48 51 0 N 2 20 0 E
